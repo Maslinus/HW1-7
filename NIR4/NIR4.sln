@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "NIR4", "NIR4\NIR4.pyproj", "{3B557A91-48B6-4301-B7B5-64B5FBE0C385}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B557A91-48B6-4301-B7B5-64B5FBE0C385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B557A91-48B6-4301-B7B5-64B5FBE0C385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C87FAF37-267A-4527-90DD-AF62617A8B7D}
+	EndGlobalSection
+EndGlobal
